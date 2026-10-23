@@ -18,7 +18,7 @@ Dies ist ein Template zur JS-gestützten Erstellung eines neuen Blogposts.
 ## Workflows
 
 1. Markdown erstellen (zum Beispiel: blogpost-20261021-1.md)
-2. HTML-Template erstellen: `blogpost-template-new.html` nach `blogpost-20261021-1.html` kopieren
+2. HTML-Template erstellen: `article-template.html` nach `blogpost-20261021-1.html` kopieren
 3. Source code der Seite mit dem outer HTML des `html`-Knotens überschreiben.
 4. Teaser für die neue Seite erstellen.
 

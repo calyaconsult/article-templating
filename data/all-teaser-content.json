@@ -1,1 +1,344 @@
-{}
+{
+  "teaser-0": {
+    "strong": "DUMMY",
+    "h3": "text",
+    "div": "date",
+    "p": "more text",
+    "img-src": "images/placeholder_200x250.png",
+    "img-alt": "Placeholder",
+    "a": "#"
+  },
+    "teaser-101": {
+    "strong": "Daten",
+    "h3": "Im Text-Dschungel",
+    "div": "8. Juni",
+    "p": "Wenn sich die Dokumente häufen, fällt es schwer, die Übersicht zu behalten. Doch das ist kein Naturgesetz! Es gibt Wege hinaus aus dem Dickicht.",
+    "img-src": "images/kleiner-affe-mit-lupe-im-datendschungel-200x250.jpg",
+    "img-alt": "Ein kleiner Affe untersucht im Datendschungel ein Dokument mit einer Lupe.",
+    "a": "blogpost-20260608-1.html"
+  },
+  "teaser-1": {
+    "strong": "Reporting",
+    "h3": "Können korrekte Zahlen lügen?",
+    "div": "11. Mai",
+    "p": "Alles scheint im grünen Bereich zu sein, und doch steht das Unternehmen kurz vor einer ernsten Krise.",
+    "img-src": "images/koennen-zahlen-luegen-200x250.jpg",
+    "img-alt": "Karikatur: Ein Mann mit überlanger Nase präsentiert Erfolgszahlen",
+    "a": "blogpost-20260511-1.html"
+  },
+  "teaser-2": {
+    "strong": "Geschäftszahlen",
+    "h3": "Lass uns spielen!",
+    "div": "22. April",
+    "p": "Kann man eine Pizzeria als Discrete Time State Machine simulieren? Oder, anders gesagt, aus einem drögen Dashboard ein realistisches Spiel machen?",
+    "img-src": "images/pizzeria-simulator-200x250.jpg",
+    "img-alt": "Logo des Pizzeria Simulators",
+    "a": "blogpost-20260422-1.html"
+  },
+  "teaser-3": {
+    "strong": "Web Traffic",
+    "h3": "Besuch aus Singapur",
+    "div": "23. März",
+    "p": "Ihre Zugriffszahlen gehen nach oben. Grund zur Freude. Oder vielleicht doch nicht? Schauen wir genauer hin.",
+    "img-src": "images/singapore-spambot-200x250.jpg",
+    "img-alt": "Symbolbild: Die Flagge von Singapur und die Skizze eines Roboters",
+    "a": "blogpost-20260323-1.html"
+  },
+  "teaser-4": {
+    "strong": "Zukunftsmusik",
+    "h3": "Ein KI-Agent mit echtem Nutzen",
+    "div": "8. März",
+    "p": "Stellen Sie sich vor, eine KI könnte Ihnen echt unangenehme Dinge abnehmen.",
+    "img-src": "images/ai-agent-200x250.jpg",
+    "img-alt": "Ein KI-Agent macht einen Telefonanruf",
+    "a": "blogpost-20260308-1.html"
+  },
+  "teaser-5": {
+    "strong": "Traffic",
+    "h3": "Rückblick auf Q4/25",
+    "div": "6. Januar",
+    "p": "Fulminanter Start: Der Weihnachts-Content hat sich gelohnt. Vor allem der Countdown hob ab wie eine Rakete.",
+    "img-src": "images/Countdown-2026-200x250.jpg",
+    "img-alt": "Eine Rakete ist startbereit.",
+    "a": "blogpost-20260106-1.html"
+  },
+  "teaser-6": {
+    "strong": "Methodik",
+    "h3": "Stufen der Abstraktion",
+    "div": "25. Juli",
+    "p": "Vom konkreten Problem erklimmen wir die Leiter der Abstraktion und zoomen gleichsam in die Weitwinkelperspektive.",
+    "img-src": "images/pebbles-200x250.jpg",
+    "img-alt": "Kieselsteine am Boden",
+    "a": "blogpost-20250725-1.html"
+  },
+  "teaser-7": {
+    "strong": "Daten",
+    "h3": "Ordnung schaffen",
+    "div": "10. März 2025",
+    "p": "Durch Kategorienbildung kann man sich in Datensammlungen leichter und rascher zurechtfinden.",
+    "img-src": "images/ordnung.jpg",
+    "img-alt": "Ordnung schaffen",
+    "a": "blogpost-20250310-1.html"
+  },
+  "teaser-8": {
+    "strong": "Digitalisierung",
+    "h3": "Post vom Anwalt",
+    "div": "23. Januar 2025",
+    "p": "Nicht immer ist es eine Abmahnung, wenn dir ein eine Anwaltskanzlei einen Brief schickt.",
+    "img-src": "images/Anwaltsbrief.jpg",
+    "img-alt": "Post vom Anwalt",
+    "a": "blogpost-20250123-1.html"
+  },
+  "teaser-9": {
+    "strong": "Sicherheit",
+    "h3": "Crypto Scammer",
+    "div": "24. Oktober 2024",
+    "p": "Sie geben sich meist als Frauen aus und versuchen, ihre Opfer zu vermeintlich lukrativen Investitionen zu verleiten.",
+    "img-src": "images/Alice-or-Robot-5.jpg",
+    "img-alt": "Crypto Scammer",
+    "a": "blogpost-20241024-1.html"
+  },
+  "teaser-10": {
+    "strong": "Reporting",
+    "h3": "Angst vor dem Monatsreport",
+    "div": "28. August 2024",
+    "p": "Der anstehende Rechenschaftsbericht ist vielen unangenehm",
+    "img-src": "images/monatsreport-1.jpg",
+    "img-alt": "Angst vor dem Monatsreport",
+    "a": "blogpost-20240828-1.html"
+  },
+  "teaser-11": {
+    "strong": "Erfolg",
+    "h3": "Immer nur Pech? Kann das sein?",
+    "div": "28. Juli 2024",
+    "p": "Es lohnt sich, nach dem Scheitern trotz allem weiterzumachen",
+    "img-src": "images/schwarze-katze.jpg",
+    "img-alt": "Immer nur Pech? Kann das sein?",
+    "a": "blogpost-20240728-1.html"
+  },
+  "teaser-12": {
+    "strong": "Störer",
+    "h3": "Fiese kleine Probleme",
+    "div": "22. Juli 2024",
+    "p": "Sie sind lästig und ebenso schwer loszuwerden wie Fliegen - und sie nerven extrem",
+    "img-src": "images/fliege-auf-doughnut.jpg",
+    "img-alt": "Fiese kleine Probleme",
+    "a": "blogpost-20240722-1.html"
+  },
+  "teaser-13": {
+    "strong": "Standortbestimmung",
+    "h3": "Google weiss, wo dein Smartphone ist",
+    "div": "18. Juni 2024",
+    "p": "— und das kann in gewissen Fällen sehr nützlich sein",
+    "img-src": "images/find-my-device.jpg",
+    "img-alt": "Google weiss, wo dein Smartphone ist",
+    "a": "blogpost-20240618-1.html"
+  },
+  "teaser-14": {
+    "strong": "Sicherheit",
+    "h3": "Die dunkle Seite des Telefons",
+    "div": "9. März 2024",
+    "p": "Betrugsmaschen, die Sie kennen und vor denen Sie sich in Acht nehmen sollten",
+    "img-src": "images/phone-shock-200x250.jpg",
+    "img-alt": "Die dunkle Seite des Telefons",
+    "a": "blogpost-20240309-1.html"
+  },
+  "teaser-15": {
+    "strong": "Daten Sammeln",
+    "h3": "Kassenbons scannen",
+    "div": "1. März 2024",
+    "p": "Belege in Papierform enthalten wertvolle Daten, doch es ist nicht ganz einfach, diese zu extrahieren.",
+    "img-src": "images/kaufbeleg-200x250.jpg",
+    "img-alt": "Kassenbons scannen",
+    "a": "blogpost-20240301-1.html"
+  },
+  "teaser-16": {
+    "strong": "Datenextraktion",
+    "h3": "Suchergebnisse als Excel-Tabelle",
+    "div": "28. Januar 2024",
+    "p": "Eine Hands-On-Anleitung zum Sammeln und Archivieren von Internet-Suchen",
+    "img-src": "images/excel-tabelle-200x250.jpg",
+    "img-alt": "Suchergebnisse als Excel-Tabelle",
+    "a": "blogpost-20240128-1.html"
+  },
+  "teaser-17": {
+    "strong": "Daten",
+    "h3": "Speisekarten-Analyse",
+    "div": "18. Dezember 2023",
+    "p": "Daten aus Restaurant-Menus zu extrahieren ist gar nicht so einfach. Das Format «PDF» stellt sich gerne quer.",
+    "img-src": "images/restaurant-menu.jpg",
+    "img-alt": "Speisekarten-Analyse",
+    "a": "blogpost-20231218-1.html"
+  },
+  "teaser-18": {
+    "strong": "Geometrie",
+    "h3": "Mit Farben rechnen",
+    "div": "8. September 2023",
+    "p": "Die Mathematik macht auch vor so etwas Sinnlichem wie der Farbe nicht halt und eröffnet allerlei Farbräume.",
+    "img-src": "images/colored_pencils_chevre.jpg",
+    "img-alt": "Mit Farben rechnen",
+    "a": "blogpost-20230908-1.html"
+  },
+  "teaser-19": {
+    "strong": "Daten",
+    "h3": "Fotos nutzen",
+    "div": "24. August 2023",
+    "p": "Data Mining mit dem Smartphone: Ihr Fotoarchiv kann eine reichhaltige Datenquelle sein. Nutzen Sie es!",
+    "img-src": "images/Apfel.jpg",
+    "img-alt": "Fotos nutzen",
+    "a": "blogpost-20230824-1.html"
+  },
+  "teaser-20": {
+    "strong": "Websites",
+    "h3": "Nicht so toll?",
+    "div": "7. Dezember 2022",
+    "p": "Die 5 wichtigsten Gründe, warum Ihre Website nicht so richtig ankommt, sondern floppt",
+    "img-src": "images/unerfreuliche-website.jpg",
+    "img-alt": "Nicht so toll?",
+    "a": "blogpost-20221207-1.html"
+  },
+  "teaser-21": {
+    "strong": "Daten",
+    "h3": "Täuschung",
+    "div": "29. November 2022",
+    "p": "So kann man sich irren, wenn man nicht alle zur Verfügung stehenden Daten in Betracht zieht",
+    "img-src": "images/liar.jpg",
+    "img-alt": "Täuschung",
+    "a": "blogpost-20221129-1.html"
+  },
+  "teaser-22": {
+    "strong": "Trend",
+    "h3": "Web Scraping",
+    "div": "4. November 2022",
+    "p": "Wie man allerlei Daten aus öffentlichen Quellen sammelt und was man mit ihnen alles anfangen kann",
+    "img-src": "images/web-spider.jpg",
+    "img-alt": "Web Scraping",
+    "a": "blogpost-20221104-1.html"
+  },
+  "teaser-23": {
+    "strong": "Daten",
+    "h3": "Flugzeuge beobachten",
+    "div": "23. September 2022",
+    "p": "Den Fliegern nachzuschauen, ist für viele faszinierend. Aber was hat das Mit Daten zu tun?",
+    "img-src": "images/airplane-200x250.jpg",
+    "img-alt": "Flugzeuge beobachten",
+    "a": "blogpost-20220923-1.html"
+  },
+  "teaser-24": {
+    "strong": "Daten",
+    "h3": "Pandas",
+    "div": "3. September 2022",
+    "p": "Das Analyse-Multitalent, das auch vor grossen Datenmengen nicht zurückschreckt",
+    "img-src": "images/pandas.jpg",
+    "img-alt": "Pandas",
+    "a": "blogpost-20220903-1.html"
+  },
+  "teaser-25": {
+    "strong": "Business",
+    "h3": "Wohin geht es?",
+    "div": "12. Juli 2022",
+    "p": "Die Zukunft des Arbeitsmarktes zwischen Job-Vernichtung und Personalknappheit",
+    "img-src": "images/arbeitsmarkt.jpg",
+    "img-alt": "Wohin geht es?",
+    "a": "blogpost-20220712-1.html"
+  },
+  "teaser-26": {
+    "strong": "Technik",
+    "h3": "Eigener Datenbankserver",
+    "div": "19. Mai 2022",
+    "p": "Lohnt sich die Anschaffung eines Inhouse-DB-Servers?",
+    "img-src": "images/digitalisierung.jpg",
+    "img-alt": "Eigener Datenbankserver",
+    "a": "blogpost-20220519-1.html"
+  },
+  "teaser-27": {
+    "strong": "Trend",
+    "h3": "Digitalisierung",
+    "div": "7. Juli 2022",
+    "p": "Es ist höchste Zeit, auf den fahrenden Zug aufzuspringen! Oder wollen Sie den Anschluss verpassen?",
+    "img-src": "images/digitalisierung.jpg",
+    "img-alt": "Digitalisierung",
+    "a": "blogpost-20220707-1.html"
+  },
+  "teaser-28": {
+    "strong": "Wechselkurs",
+    "h3": "Den Euro beobachten",
+    "div": "25. Mai 2022",
+    "p": "Das Auf und Ab des Devisenkurses mit einem selbst gebauten Ticker beobachten",
+    "img-src": "images/eur-chf.png",
+    "img-alt": "Den Euro beobachten",
+    "a": "blogpost-20220525-1.html"
+  },
+  "teaser-29": {
+    "strong": "Business",
+    "h3": "Der Blick des Experten",
+    "div": "9. Okt 2020",
+    "p": "Hinschauen und Dinge sehen, die dem Laien gar nicht auffallen, das zeichnet den Experten aus. Vielleicht sollten Sie diesen Blick für sich nutzen...",
+    "img-src": "images/experte.png",
+    "img-alt": "Der Blick des Experten",
+    "a": "blogpost-20201009-1.html"
+  },
+  "teaser-30": {
+    "strong": "Krise",
+    "h3": "Jetzt oder nie!",
+    "div": "27. Okt 2020",
+    "p": "Jede Krise findet einmal ihr Ende, auch die jetzige. Die Frage ist nur: Wie lässt sich die Wartezeit bis zum Ende der Krise nutzen?",
+    "img-src": "images/wannwennnichtjetzt.png",
+    "img-alt": "Jetzt oder nie!",
+    "a": "blogpost-20201027-1.html"
+  },
+  "teaser-31": {
+    "strong": "Statistik",
+    "h3": "Bäume in Rostock",
+    "div": "11. Sep 2020",
+    "p": "Wenn Städte und Gemeinden ihre Datenbestände veröffentlichen, gibt es Interessantes zu entdecken",
+    "img-src": "images/baum.png",
+    "img-alt": "Bäume in Rostock",
+    "a": "blogpost-20200911-1.html"
+  },
+  "teaser-32": {
+    "strong": "Daten",
+    "h3": "Dashboards einfach, aber nützlich",
+    "div": "2. Sep 2020",
+    "p": "Ein so genanntes \"Dashboard\" soll den Überblick erleichtern. Es ist gar nicht so schwer, eines einzurichten",
+    "img-src": "images/Beispielbild-2.png",
+    "img-alt": "Dashboards einfach, aber nützlich",
+    "a": "blogpost-20200902-1.html"
+  },
+  "teaser-33": {
+    "strong": "Gesellschaft",
+    "h3": "Trends in Zeiten von Corona",
+    "div": "30. Aug 2020",
+    "p": "Die Krise hat einiges in Bewegung gebracht. Wichtig ist, dass man merkt, in welche Richtung sie geht",
+    "img-src": "images/coronavirus.png",
+    "img-alt": "Trends in Zeiten von Corona",
+    "a": "blogpost-20200830-1.html"
+  },
+  "teaser-34": {
+    "strong": "Technik",
+    "h3": "Wozu Website Monitoring?",
+    "div": "19. Aug 2020",
+    "p": "Aufschalten und vergessen - das ist wohl das Dümmste, was man seiner Website antun kann",
+    "img-src": "images/Beispielbild-1.png",
+    "img-alt": "Wozu Website Monitoring?",
+    "a": "blogpost-20200819-1.html"
+  },
+  "teaser-35": {
+    "strong": "Daten",
+    "h3": "Brauchen wir wirklich noch Excel?",
+    "div": "22. Aug 2020",
+    "p": "Excel sei kompliziert und teuer, heisst es. Aber geht es auch ohne Microsofts Tabellenkalkulation?",
+    "img-src": "images/excel.png",
+    "img-alt": "Brauchen wir wirklich noch Excel?",
+    "a": "blogpost-20200822-1.html"
+  },
+  "teaser-36": {
+    "strong": "Technik",
+    "h3": "Wie komme ich zu einem Webserver?",
+    "div": "28. Aug 2020",
+    "p": "Es muss nicht immer ein komplettes Hosting sein, wenn man für interne Zwecke einen Server braucht",
+    "img-src": "images/webserver.png",
+    "img-alt": "Wie komme ich zu einem Webserver?",
+    "a": "blogpost-20200828-1.html"
+  }
+}

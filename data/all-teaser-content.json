@@ -1,0 +1,29 @@
+{
+  "dummy": {
+    "strong": "DUMMY",
+    "h3": "Platzhalter",
+    "p": "Platzhalter-Eintrag",
+    "a": "#",
+    "div": "1. Januar",
+    "img-src": "images/dummy-image.jpg",
+    "img-alt": "Platzhalter-Bild"
+  },
+  "article-1": {
+    "strong": "Beispiel",
+    "h3": "Neu zu erstellender Blogpost",
+    "p": "Dieser Blogpost wird mittels des Template-Workflows erstellt.",
+    "a": "blogpost-20261021-1.html",
+    "div": "21. Oktober",
+    "img-src": "images/dummy-image.jpg",
+    "img-alt": "Artikel-Bild 1"
+  },
+  "article-2": {
+    "strong": "Archiv",
+    "h3": "Im Text-Dschungel",
+    "p": "Ein früherer Beitrag im Blog.",
+    "a": "blogpost-20260608-1.html",
+    "div": "8. Juni",
+    "img-src": "images/dummy-image.jpg",
+    "img-alt": "Artikel-Bild 2"
+  }
+}

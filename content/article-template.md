@@ -5,7 +5,7 @@ headline: Neu zu erstellender Blogpost
 description: Dieser Blogpost wird mittel des Template-Workflows erstellt
 author: Calya Consult GmbH
 robots: index, follow
-canonical: https://www.calyaconsult.ch/articles/blogpost-template-new.html
+canonical: https://www.calyaconsult.ch/articles/article-template.html
 # Für den späteren Teaser (Schritt 3), wird hier noch nicht verwendet:
 spitzmarke: Spitzmarke
 untertitel: Untertitel

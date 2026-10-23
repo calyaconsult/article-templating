@@ -14,6 +14,8 @@ Das System ermöglicht das Schreiben von Blogposts in Markdown (`.md`) mit YAML-
 .
 ├── content/
 │   └── article-template.md   # Vorlage für Blogbeiträge in Markdown
+├── data/
+│   └── all-teaser-content.json # Teaser Daten für bereits publizierte Beiträge
 ├── src/
 │   └── article-template.html # HTML-Grundgerüst für Artikel
 ├── js/
